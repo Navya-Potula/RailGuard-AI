@@ -69,11 +69,9 @@ Smart-Crowd-Management/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/RailGuard-AI.git
+git clone https://github.com/Navya-Potula/RailGuard-AI.git
 cd RailGuard-AI
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ### 2. Set Up the Python Environment
 
