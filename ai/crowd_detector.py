@@ -14,8 +14,10 @@ ROOT = Path(__file__).resolve().parent.parent
 
 MODEL_PATH = ROOT / "yolov8m.pt"
 
-API_URL = "http://127.0.0.1:5000/api/crowd"
-VIDEO_API_URL = "http://127.0.0.1:5000/api/video_frame"
+
+API_URL = "https://railguard-backend-38sa.onrender.com/api/crowd"
+VIDEO_API_URL = "https://railguard-backend-38sa.onrender.com/api/video_frame"
+
 
 
 # ==========================================

@@ -34,7 +34,9 @@ import "./App.css";
 // ==========================================
 
 const API_URL = "https://railguard-backend-38sa.onrender.com/api/crowd";
-const BACKEND_URL = "http://127.0.0.1:5000";
+
+const BACKEND_URL = "https://railguard-backend-38sa.onrender.com";
+
 
 const CAMERAS = [
   { id: "CAM-01", platform: 1, name: "Platform 1" },
