@@ -27,7 +27,7 @@ import {
   CartesianGrid,
 } from "recharts";
 
-import "./app.css";
+import "./App.css";
 
 // ==========================================
 // API CONFIGURATION
