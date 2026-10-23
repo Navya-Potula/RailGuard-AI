@@ -1,0 +1,35 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+
+# React / Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Secrets and local configuration
+.env.*
+!.env.example
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Video files 
+videos/
+*.mp4
+*.avi
+*.mov
+
+# Model files - keep large YOLO weights out of Git by default
+*.pt
+*.onnx
+
+# Logs
+*.log
+runs/
